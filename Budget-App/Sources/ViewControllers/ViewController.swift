@@ -1,10 +1,3 @@
-//
-//  ViewController.swift
-//  Budget-App
-//
-//  Created by Andrey Manuilov on 06/03/2024.
-//
-
 import UIKit
 
 class ViewController: UIViewController {
